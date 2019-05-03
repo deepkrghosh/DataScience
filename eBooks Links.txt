@@ -1,0 +1,11 @@
+****Reinforcement Learning: An Introduction**** Book by Andrew Barto and Richard S. Sutton
+https://lnkd.in/f6byhDw
+
+DEEP LEARNING DRIZZLE - Github by Marimuthu K. https://lnkd.in/f6TANzj
+https://github.com/kmario23/deep-learning-drizzle
+
+A Recipe for Training Neural Networks:
+Neural Networks: http://karpathy.github.io/2019/04/25/recipe/
+
+
+

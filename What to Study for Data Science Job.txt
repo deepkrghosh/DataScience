@@ -1,0 +1,69 @@
+Step 1: 
+Learn Python: https://www.w3schools.com/python
+
+UDEMY VIDEO COURSES: (Must Learn order by 1 , 2 & then 3 )
+----------------------------------------------------------------
+1. Python A-Z™: Python For Data Science With Real Exercises! 
+2. Machine Learning A-Z™: Hands-On Python &amp; R In Data Science
+3. Data Science A-Z™: Real-Life Data Science Exercises Included 
+
+
+
+---------------------------------------------------------
+COMMON JOB DESCRIPTIONS FOR DATA SCIENCE ACROSS NAUKRI :
+---------------------------------------------------------
+Deep Learning Techniques:
+----------------------------
+TensorFlow *** VVI***
+Theano
+Torch
+
+
+Machine Learning Algorithms & Methods: 
+---------------------------------------
+Decision Tree, Random Forest, CART/CHAID, Extreme Gradient Boosting, Ridge Regression, PCA, SVM
+Natural Language Processing Techniques
+Information Retrieval Techniques
+
+Handling Structured/Unstructured Data ~ Loading Validating & Cleaning up data
+-------------------------------------
+
+Statistical Techniques
+-----------------------
+Time Series Decomposition
+Multiple Linear Regression
+Logistic/Logit Model
+Simulation Modeling
+Survival Analysis
+
+
+Mathematics: Linear Algebra, Probability Theory
+
+LEARN DATA SCIENCE for FREE
+-----------------------------------------------
+Main Source: https://www.youtube.com/watch?v=eTxyviU0Ddo&feature=youtu.be  
+Check the description Section for more details
+
+
+HARVARD DS Course: https://online-learning.harvard.edu/course/data-science-machine-learning?delta=0
+Enroll it for Free. After completion you wont get a certificate.
+
+DataSets to use for practice: (Advanced Stage)
+------------------------------------------------
+HackerRank https://www.hackerrank.com/
+Google Data Set: https://toolbox.google.com/datasetsearch
+HackerEarth: https://www.hackerearth.com/
+
+
+
+
+For Advanced Level Study Materials:
+
+Complete Cheat Sheet with GITHUB repository link with all PDFs.
+https://github.com/abhat222/Data-Science--Cheat-Sheet  
+
+
+SOFTWARES REQUIRED:
+https://www.anaconda.com/distribution/ (for Jupyter Notebook)
+https://www.python.org/downloads/
+PYCHARM  - Optional
