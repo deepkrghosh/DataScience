@@ -1,0 +1,26 @@
+Python Learning Plan Step By Step
+-------------------------------------------------------
+
+https://www.youtube.com/watch?v=7UeRnuGo-pg
+
+Web Development: Python + Django, Flask
+
+Machine Learning, AI & Deep Learning Data Science:
+---------------------------------------------------------------------
+
+1. Friendly with the syntax all
+2. array , collections, type casting
+3. OOPs 
+4. Library - Beautiful Soup, Web Scrapping using Python.
+5. Library - How to open files & read files using the python like Excel or PDF.
+6. RegEx using Python
+
+ML 
+----- 
+1. Implementating Libraries in Python 
+	NUMPY ***
+	PANDAS ***
+	MATPLOTLIB
+	SEABORN 
+2. Jupyter Notebooks () / Spider
+3. 
