@@ -1,0 +1,77 @@
+## Here movies = DataSet imported to python in CSV format (movies.csv)
+## movies = pd.read_csv('movies.csv')
+## 'CriticRatings' & 'AudienceRatings' are column names of movies.csv file
+
+
+JOINT PLOT: (Both X and Y axis has Numeric Data)
+------------------------------------------------
+j = sns.jointplot(data = movies, x = 'CriticRatings', y = 'AudienceRatings')
+
+
+HISTOGRAM: (Single Axis - Based on Single Dimensional Data)
+-----------------------------------------------------------
+pyPlot = plt.hist(movies.CriticRatings, bins =15)
+seabornPlot2 = sns.distplot(movies.AudienceRatings, bins =15)
+
+Histogram Types: Hist, Box, Violin, Dist
+
+BOX PLOT (Catgory/ Numeric Value = X and Y Axis)
+-------------------------------------------------
+boxPlot1 = sns.boxenplot(data=movies, x='Genre', y='CriticRatings')
+
+
+VIOLIN PLOT (Catgory/ Numeric Value = X and Y Axis)
+-------------------------------------------------
+Catgory/ Numeric Value = X and Y Axis
+violinPlot1 = sns.violinplot(data=movies, x='Genre', y='CriticRatings', ax=axes[1])
+
+
+DIST PLOT
+----------
+sns.set_style("darkgrid")
+seabornPlot = sns.distplot(movies.CriticRatings, bins =15)
+
+
+Difference between BOX & VIOLIN PLOT:
+--------------------------------------
+Violin plot is more detailed & it gives more insights. It is more for Technical people.
+BOXPlot is liked by business people much as they tend to understand simpler visualization.
+
+
+SCATTERED PLOT (Both X and Y Axis has Numeric values):
+----------------------------------------------------------
+scatteredPlot = plt.scatter(movies.CriticRatings, movies.AudienceRatings)
+
+SUBPLOT :: KDE PLOT Kernet Density Estimation
+----------------------------------------------
+kdeplotAudienceRatingsVSBudget = sns.kdeplot(movies.Budget, movies.AudienceRatings, size = 10)
+
+
+LMPLOT: (Both X and Y Axis has Numeric values)
+-------------------------------------------------
+vis1 = sns.lmplot(data=movies, x='CriticRatings', y='AudienceRatings', size=7, hue='Genre', fit_reg=False, aspect=1)
+
+
+
+FACETGRID: (Plot within plot) ~ scattered plot within FacetGrid
+-----------------------------------------------------------------
+FacetGrid: X axis v/s Y axis: Category v/s Category
+ScatteredPlot: X axis v/s Y Axis: Category v/s Number
+
+Note: FACETGRID both X and Y axis have CATEGORICAL values
+Syntax:
+-------
+facetGrid1 = sns.FacetGrid(movies, hue='Genre', row ='Genre', col='ReleaseYear')
+facetGrid2 = facetGrid2.map(plt.scatter, 'CriticRatings', 'AudienceRatings')
+
+
+HISTOGRAM WITHIN FACETGRID:
+----------------------------
+facetGrid3 = sns.FacetGrid(movies, hue='Genre', row ='Genre', col='ReleaseYear')
+facetGrid3 = facetGrid3.map(plt.hist,  'Budget', bins = 10)
+
+
+
+
+
+
