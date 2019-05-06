@@ -1,0 +1,7 @@
+Python Scikit-Learn Cheat Sheet for Machine Learning
+------------------------------------------------------
+https://www.edureka.co/blog/cheatsheets/python-scikit-learn-cheat-sheet
+
+
+
+
