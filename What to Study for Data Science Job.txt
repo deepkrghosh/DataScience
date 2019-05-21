@@ -3,9 +3,9 @@ Learn Python: https://www.w3schools.com/python
 
 UDEMY VIDEO COURSES: (Must Learn order by 1 , 2 & then 3 )
 ----------------------------------------------------------------
-1. Python A-Z™: Python For Data Science With Real Exercises! 
-2. Machine Learning A-Z™: Hands-On Python &amp; R In Data Science
-3. Data Science A-Z™: Real-Life Data Science Exercises Included 
+1. Python A-Zâ„¢: Python For Data Science With Real Exercises! 
+2. Machine Learning A-Zâ„¢: Hands-On Python &amp; R In Data Science
+3. Data Science A-Zâ„¢: Real-Life Data Science Exercises Included 
 
 
 
@@ -44,6 +44,9 @@ LEARN DATA SCIENCE for FREE
 Main Source: https://www.youtube.com/watch?v=eTxyviU0Ddo&feature=youtu.be  
 Check the description Section for more details
 
+Learn DS in 3 months:
+https://youtu.be/9rDhY1P3YLA
+Check the description Section for more details
 
 HARVARD DS Course: https://online-learning.harvard.edu/course/data-science-machine-learning?delta=0
 Enroll it for Free. After completion you wont get a certificate.
