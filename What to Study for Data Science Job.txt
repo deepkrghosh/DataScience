@@ -1,7 +1,7 @@
 Step 1: 
 Learn Python: https://www.w3schools.com/python
 
-UDEMY VIDEO COURSES: (Must Learn order by 1 , 2 & then 3 )
+**UDEMY VIDEO COURSES: (Must Learn order by 1 , 2 & then 3 )**
 ----------------------------------------------------------------
 1. Python A-Z™: Python For Data Science With Real Exercises! 
 2. Machine Learning A-Z™: Hands-On Python &amp; R In Data Science
